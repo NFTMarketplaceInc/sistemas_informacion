@@ -1,2 +1,5 @@
 # sistemas_informacion
-Slack-GitHub
+## NFT Marketplace, Inc
+### Formado por:
+* *Victoria Pradas Laguna*
+* *Álvaro Roldán Lucena*
